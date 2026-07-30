@@ -25,6 +25,16 @@ Embera bridges the gap between natural language and live production code. By sim
 
 ![Embera Showcase Flyer](./docs/Embera_Professional_Flyer.png)
 
+![Embera Thumbnail](./docs/thumbnail_16x9.png)
+
+**Scan the QR Code to visit Embera:**
+
+![Embera QR Code](./docs/EmberaQR.png)
+
+🔊 **Media & Audio**
+- Listen to our [Audio Track](./docs/audio_track.mp3)
+- Check out the [Interactive Promo](./docs/udio.html)
+
 ## 🛣️ Roadmap 
 
 We are constantly improving the orchestration layer. Our upcoming milestones include:
