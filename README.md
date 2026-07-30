@@ -25,7 +25,6 @@ Embera bridges the gap between natural language and live production code. By sim
 
 ![Embera Homepage](./docs/homepage.png)
 
-![Embera Showcase Flyer](./docs/Embera_Professional_Flyer.png)
 
 ### 🎥 Watch the Demo
 [![Embera Website Generation Demo](./docs/thumbnail_16x9.png)](https://youtu.be/wjA6JMzbMhM?si=Px_CZzSXLLSel86W)
